@@ -4166,7 +4166,7 @@ figcaption {
   align-items: center;
   width: 25px;
   display: inline-flex;
-  inset: -50px 0% auto auto;
+  inset: -50px 1% auto auto;
 }
 
 .slider_card {
